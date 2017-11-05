@@ -1,0 +1,27 @@
+{
+  "name": "toh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCourse3/David-TOH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebCourse3/David-TOH/issues"
+  },
+  "homepage": "https://github.com/WebCourse3/David-TOH#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.39"
+  }
+}
